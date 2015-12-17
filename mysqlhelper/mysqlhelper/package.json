@@ -1,0 +1,13 @@
+{
+  "name": "mysqlhelper",
+  "version": "0.0.1",
+  "description": "对mysql数据库访问的包装",
+  "main": "test.js",
+  "author": {
+    "name": "cjm",
+    "email": ""
+  },
+  "dependencies": {
+    "mysql": "^2.10.0"
+  }
+}
